@@ -1,0 +1,193 @@
+.gw-wspace {
+    white-space: pre-line;
+}
+
+nav {
+    background: #a8312d;
+}
+
+.gw-brand {
+    text-transform: uppercase;
+}
+
+.gw-menu {
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.gw-menu-link-active {
+    color: #a8312d !important;
+    background: white;
+}
+
+
+
+header {
+    background: #a8312d;
+    padding-top: 12em;
+    padding-bottom: 4em;
+    border-bottom: solid 5px #d46b68;
+    height: 100vh;
+}
+
+h1.gw-header-title {
+    margin: 0;
+    line-height: 150%;
+    font-weight: 300 !important;
+    color: #FFF;
+    padding-bottom: 1em;
+    white-space: pre-line;
+}
+
+span.header-title-top {
+    text-transform: uppercase;
+    margin-bottom: -2rem;
+    padding-bottom: -2rem;
+}
+
+span.header-title-bm {
+    text-transform: uppercase;
+    font-size: 1.4375rem;
+    margin-top: -2rem;
+}
+
+h2.gw-header-h2 {
+    color: rgba(255,255,255,0.5);
+    margin-top: -1em;
+    font-size: 3.5vh;
+    font-weight: 100;
+}
+
+.services {
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+
+.services-title {
+    text-transform: uppercase;
+    font-size: 2.625em;
+    font-weight: 300;
+    margin-bottom: 1.25rem;
+}
+
+.gw-one-service {
+}
+
+.gw-services-sub-title {
+    text-transform: uppercase;
+    color: #343a40;
+    font-weight: 700;
+}
+
+.gw-services-list {
+    padding-top: 1.8em;
+    padding-left: 1em;
+}
+
+.gw-services-list-title {
+    white-space: pre-line;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.gw-services-item {
+    white-space: pre-line;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 300;
+    padding-top: 1em;
+}
+
+.gw-services-item h3 {
+    font-weight: 100;
+}
+
+.gw-services-table-div {
+    padding-top: 1.25em;
+    text-transform: uppercase;
+    padding-bottom: 1.25em;
+}
+
+.gw-services-table {
+    font-weight: 300;
+}
+
+.gw-services-btn-more {
+    border: solid 1px #a8312d;
+    color: #a8312d;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+.gw-services-btn-more:hover {
+    background: #a8312d;
+    color: white;
+}
+
+#vk_groups {
+    width: 1000px;
+    height: 700px;
+}
+
+.gw-map-title {
+    display: none;
+}
+
+.contacts {
+    padding-top: 5em;
+    padding-bottom: 4em;
+    background: #a8312d;
+    color: white;
+}
+
+.contacts a {
+    color: white;
+    font-weight: 200;
+}
+
+.gw-contacts-title {
+    font-size: 2.625em;
+    line-height: 46px;
+    font-weight: 300;
+    margin-bottom: 1.25rem;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 3rem;
+}
+
+.gw-contacts-row {
+    color: white;
+font-size: 1.25em;
+}
+
+.gw-contacts-right {
+    padding-top: 4em;
+}
+
+.map {
+    margin-bottom: -0.5em;
+}
+
+footer {
+    background: #a8312d;
+}
+
+.gw-footer-copy {
+    font-size: 0.7em;
+    font-weight: 100;
+    color: rgba(255,255,255,0.25);
+}
+
+.gw-footer-copy a {
+    color: rgba(255,255,255,0.25);
+}
+
+.gw-footer-copy h2 {
+    font-size: 1em !important;
+
+    font-weight: 200;
+}
